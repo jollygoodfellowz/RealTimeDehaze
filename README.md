@@ -1,3 +1,5 @@
+We borrowed this project, https://github.com/pby5/dehaze, and made it work for our purposes
+
 Be sure to have opencv installed and compiled with cuda before trying to compile
 
 Below is the cmake command we used to compile opencv:
